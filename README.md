@@ -12,12 +12,13 @@ This is a repository that recorded the contents when I first studied artificial 
 
 ├── README.md
 ├── 발표자료/
-    ├── ground_truth.result.txt/                 (ground_truth)
-    ├── cnn_result.txt/
-    ├── rnn_result.txt/
-    ├── ensemble_result.txt/
-    └── bert_result.txt/
+    ├── CNN_정지원.pptx/                 (ground_truth)
+    ├── CNN_Architecture_정지원.pptx/
+    ├── K-means Clustering_정지원.pptx/
+    ├── PCA_정지원.pptx/
+    └── Probability_정지원.pptx/
+    └── ...
 ├── 기록들/
-├── ...
-├── ...
+    ├── ...
+    ├── ...
 ```
