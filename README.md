@@ -9,7 +9,7 @@ This is a repository that recorded the contents when I first studied artificial 
 
 
 ```plain
-.
+
 ├── README.md
 ├── 발표자료/
     ├── ground_truth.result.txt/                 (ground_truth)
