@@ -6,3 +6,18 @@ This is a repository that recorded the contents when I first studied artificial 
 ---
 
 ## Contents
+
+
+```plain
+.
+├── README.md
+├── 발표자료/
+    ├── ground_truth.result.txt/                 (ground_truth)
+    ├── cnn_result.txt/
+    ├── rnn_result.txt/
+    ├── ensemble_result.txt/
+    └── bert_result.txt/
+├── 기록들/
+├── ...
+├── ...
+```
